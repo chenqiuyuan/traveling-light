@@ -2,577 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f3a8444-f5be-439a-8dac-2ab8554de603" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/homepage/regen/u31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/homepage/u31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/个人主页/u181.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/个人主页/u189.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/个人主页/u204.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/个人主页/u206.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/个人主页/u212.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/个人主页/u214.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/搜索页面/u267.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/搜索页面/u285.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/搜索页面/u287.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/搜索页面/u293.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/搜索页面/u295.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/注册页面/u139.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/话题页面/u351.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/images/话题页面/u351_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/variables_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/variables_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/variables_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/back_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/footnotes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/footnotes_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/footnotes_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/forward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/forward_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/notes_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/notes_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/notes_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/079_page_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/086_case_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/225_responsive_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/228_togglenotes_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/229_variables_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/231_event_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/232_search_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/233_hyperlink_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/235_folderclosed_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/236_folderopen_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/adaptivecheck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/flow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/folder_closed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/folder_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/hotspots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/hotspots_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/hotspots_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/note.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/share_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/share_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/sitemap_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/sitemap_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/sitemap_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/views.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/views_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/views_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/allow_access.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/axure-chrome-extension.crx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/axure_logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/axure_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/extensions_menu.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/splitter.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/splitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/newwindow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/note.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/259_close_12rollover1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/259_close_12rollover2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/260_collapse_12rollover1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/260_collapse_12rollover2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/261_expand_12rollover1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/261_expand_12rollover2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/close_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/expand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/expand_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/transparent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/data/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/data/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/homepage/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/homepage/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/个人主页/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/个人主页/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/创建日志/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/创建日志/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/创建相册/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/创建相册/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/找回密码/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/找回密码/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/搜索页面/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/搜索页面/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/日志界面/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/日志界面/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/某个话题界面/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/某个话题界面/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/注册页面/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/注册页面/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/登陆页面/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/登陆页面/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/相册界面/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/相册界面/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/话题页面/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/files/话题页面/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/debug.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/reset.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/reset_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/variables_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/variables_off.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/debug/styles/images/variables_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/back.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/back_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/footnotes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/footnotes_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/footnotes_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/forward.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/forward_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/notes_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/notes_off.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/images/notes_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/page_notes/styles/page_notes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/recordplay/recordplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/recordplay/styles/recordplay.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/flow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/folder_closed.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/folder_open.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/hotspots.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/hotspots_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/hotspots_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/note.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/page.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/share.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/share_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/share_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/sitemap_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/sitemap_off.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/sitemap_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/views.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/views_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/images/views_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/plugins/sitemap/styles/sitemap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/Other.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/chrome/chrome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/axure_rp_page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/images/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/jquery-ui-themes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/expand.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/close.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/close_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/divider.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/expand.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/expand_hover.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/images/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/reload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/jquery-ui-1.8.10.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/messagecenter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/player/axplayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/player/splitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/prototypePost.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/prototypePre.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/startPost.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/static/homepage/resources/scripts/startPre.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/data/document.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/data/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/homepage/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/homepage/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/个人主页/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/个人主页/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/创建日志/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/创建日志/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/创建相册/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/创建相册/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/找回密码/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/找回密码/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/搜索页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/搜索页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/日志界面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/日志界面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/某个话题界面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/某个话题界面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/注册页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/注册页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/登陆页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/登陆页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/相册界面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/相册界面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/话题页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/files/话题页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/homepage/regen/u31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/homepage/u31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/个人主页/u181.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/个人主页/u189.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/个人主页/u204.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/个人主页/u206.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/个人主页/u212.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/个人主页/u214.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/搜索页面/u267.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/搜索页面/u285.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/搜索页面/u287.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/搜索页面/u293.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/搜索页面/u295.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/注册页面/u139.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/话题页面/u351.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/images/话题页面/u351_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/debug.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/reset.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/reset_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/variables_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/variables_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/variables_off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/variables_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/variables_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/debug/styles/images/variables_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/back.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/back_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/back_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/footnotes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/footnotes.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/footnotes_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/footnotes_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/footnotes_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/footnotes_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/forward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/forward.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/forward_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/forward_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/notes_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/notes_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/notes_off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/notes_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/notes_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/images/notes_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/page_notes/styles/page_notes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/recordplay/recordplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/recordplay/styles/recordplay.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/079_page_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/086_case_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/225_responsive_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/228_togglenotes_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/229_variables_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/231_event_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/232_search_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/233_hyperlink_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/235_folderclosed_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/236_folderopen_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/adaptivecheck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/flow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/flow.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/folder_closed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/folder_closed.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/folder_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/folder_open.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/hotspots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/hotspots.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/hotspots_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/hotspots_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/hotspots_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/hotspots_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/note.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/note.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/page.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/share.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/share_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/share_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/share_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/share_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/sitemap_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/sitemap_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/sitemap_off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/sitemap_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/sitemap_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/sitemap_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/views.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/views.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/views_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/views_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/views_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/images/views_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/plugins/sitemap/styles/sitemap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/Other.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/allow_access.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/axure-chrome-extension.crx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/axure_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/axure_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/chrome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/extensions_menu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/splitter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/chrome/splitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/axure_rp_page.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/newwindow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/note.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/jquery-ui-themes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/expand.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/259_close_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/259_close_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/260_collapse_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/260_collapse_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/261_expand_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/261_expand_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/close.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/close_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/close_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/divider.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/expand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/expand.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/expand_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/expand_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/images/transparent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/reload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/jquery-ui-1.8.10.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/messagecenter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/player/axplayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/player/splitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/prototypePost.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/prototypePre.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/startPost.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/hello/resources/scripts/startPre.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/data/document.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/data/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/homepage/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/homepage/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/个人主页/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/个人主页/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/创建日志/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/创建日志/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/创建相册/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/创建相册/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/找回密码/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/找回密码/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/搜索页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/搜索页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/日志界面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/日志界面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/某个话题界面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/某个话题界面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/注册页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/注册页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/登陆页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/登陆页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/相册界面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/相册界面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/话题页面/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/files/话题页面/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/homepage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/homepage/regen/u31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/homepage/u31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/个人主页/u181.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/个人主页/u189.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/个人主页/u204.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/个人主页/u206.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/个人主页/u212.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/个人主页/u214.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/搜索页面/u267.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/搜索页面/u285.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/搜索页面/u287.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/搜索页面/u293.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/搜索页面/u295.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/注册页面/u139.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/话题页面/u351.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/images/话题页面/u351_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/debug.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/reset.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/reset_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/variables_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/variables_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/variables_off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/variables_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/variables_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/debug/styles/images/variables_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/back.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/back_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/back_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/footnotes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/footnotes.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/footnotes_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/footnotes_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/footnotes_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/footnotes_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/forward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/forward.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/forward_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/forward_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/notes_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/notes_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/notes_off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/notes_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/notes_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/images/notes_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/page_notes/styles/page_notes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/recordplay/recordplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/recordplay/styles/recordplay.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/079_page_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/086_case_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/225_responsive_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/228_togglenotes_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/229_variables_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/231_event_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/232_search_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/233_hyperlink_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/235_folderclosed_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/236_folderopen_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/adaptivecheck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/flow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/flow.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/folder_closed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/folder_closed.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/folder_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/folder_open.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/hotspots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/hotspots.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/hotspots_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/hotspots_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/hotspots_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/hotspots_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/note.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/note.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/page.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/share.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/share_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/share_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/share_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/share_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/sitemap_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/sitemap_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/sitemap_off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/sitemap_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/sitemap_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/sitemap_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/views.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/views.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/views_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/views_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/views_on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/images/views_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/plugins/sitemap/styles/sitemap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/Other.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/allow_access.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/axure-chrome-extension.crx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/axure_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/axure_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/chrome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/extensions_menu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/splitter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/chrome/splitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/axure_rp_page.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/newwindow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/note.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/jquery-ui-themes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/expand.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/259_close_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/259_close_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/260_collapse_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/260_collapse_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/261_expand_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/261_expand_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/close.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/close_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/close_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/divider.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/expand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/expand.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/expand_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/expand_hover.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/images/transparent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/reload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/jquery-ui-1.8.10.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/messagecenter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/player/axplayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/player/splitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/prototypePost.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/prototypePre.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/startPost.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/resources/scripts/startPre.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/start_c_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/start_g_0.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/个人主页.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/创建日志.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/创建相册.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/找回密码.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/搜索页面.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/日志界面.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/某个话题界面.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/注册页面.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/登陆页面.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/相册界面.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/homepage/主页带注释02-08/话题页面.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homepage/templates/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/templates/homepage/homepage.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homepage/templates/homepage/data/styles.css" afterPath="$PROJECT_DIR$/homepage/templates/homepage/data/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homepage/urls.py" afterPath="$PROJECT_DIR$/homepage/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homepage/views.py" afterPath="$PROJECT_DIR$/homepage/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log.txt" afterPath="$PROJECT_DIR$/log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/traveler/settings.py" afterPath="$PROJECT_DIR$/traveler/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/traveler/urls.py" afterPath="$PROJECT_DIR$/traveler/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -593,7 +25,7 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/traveler/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
+            <state relative-caret-position="361">
               <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
                 <element signature="e#642#683#0" expanded="true" />
@@ -605,7 +37,7 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homepage/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="133">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -617,8 +49,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homepage/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="361">
+              <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
               <folding>
                 <element signature="e#22#57#0" expanded="true" />
               </folding>
@@ -629,8 +61,8 @@
       <file leaf-file-name="homepage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/homepage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-615">
-              <caret line="17" column="71" lean-forward="true" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+            <state relative-caret-position="134">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -659,17 +91,9 @@
       <file leaf-file-name="个人主页.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/个人主页.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="114">
               <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#11385#11391#1#HTML" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#2;n#p#0;n#div#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -687,7 +111,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/traveler/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
+            <state relative-caret-position="1197">
               <caret line="63" column="28" lean-forward="false" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
               <folding />
             </state>
@@ -755,10 +179,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -775,7 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -790,12 +214,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_tutorial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sae-python/traveler" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
     <property name="SearchEverywhereHistoryKey" value="interpreter&#9;null&#9;null" />
@@ -1079,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1488611203143</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="主页君。。。">
+      <created>1488643657970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488643657970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1092,18 +523,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22590837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15132275" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1111,6 +541,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1126,7 +557,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="rerestart&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="rerestart&#10;" />
+    <MESSAGE value="主页君。。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="主页君。。。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1136,26 +568,15 @@
           <line>48</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/homepage/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../django_tutorial/polls/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1163,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
           <caret line="58" column="23" lean-forward="false" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1195,9 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1216,9 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#649#690#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1299,17 +713,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/detail.html" />
     <entry file="file://$PROJECT_DIR$/traveler/views.py" />
     <entry file="file://$PROJECT_DIR$/homepage/url.py" />
     <entry file="file://$PROJECT_DIR$/../django_polls/polls/views.py">
@@ -1344,9 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="e#649#690#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1354,9 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1371,13 +772,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/hello.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/hello.html" />
     <entry file="file://$PROJECT_DIR$/traveler/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1389,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1397,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1405,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1413,9 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1423,39 +812,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
           <caret line="58" column="23" lean-forward="false" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/templates/index.html" />
     <entry file="file://$PROJECT_DIR$/homepage/static/homepage/files/个人主页/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/个人主页.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="114">
           <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#11385#11391#1#HTML" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#p#0;n#div#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1479,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1490,7 +861,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/traveler/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
+        <state relative-caret-position="361">
           <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
             <element signature="e#642#683#0" expanded="true" />
@@ -1500,7 +871,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/traveler/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="1197">
           <caret line="63" column="28" lean-forward="false" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
           <folding />
         </state>
@@ -1508,7 +879,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/homepage/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="133">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -1516,21 +887,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage/views.py">
+    <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/homepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#22#57#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="134">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage/templates/homepage/homepage.html">
+    <entry file="file://$PROJECT_DIR$/../sae-python/python-getting-started/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615">
-          <caret line="17" column="71" lean-forward="true" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        <state relative-caret-position="76">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="e#22#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
