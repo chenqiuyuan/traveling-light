@@ -3,7 +3,7 @@
 <html>
   <head>
     <title>HOMEPAGE</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=chrome"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <link href="{% static "homepage/resources/css/jquery-ui-themes.css"%}" type="text/css" rel="stylesheet"/>
@@ -23,8 +23,31 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+    <h> chenqiuyuan demo123 </h>
+    <form action="/your_name/" method="post">
+        {% csrf_token %}
+        <label for="label1">Your name: </label>
+        <br/>
+        <input id="your_name" type="text" name="your_name" value="{{ current_name }}">
+        <input type="submit" value="OK">
+    </form>
+{#    <img src="{% static "media/pikaqiu.jpg" %}">#}
+    <a href="admin/">admin</a>
+{#    <img src="{{ MEDIA_URL }}pikaqiu.jpg">#}
+{#    <img src="{{ MEDIA_URL }}{{ image }}">#}
+    <br/>
+    {{ name }}
 
+     <form action="upload_pic/" method="post" enctype="multipart/form-data">{% csrf_token %}
+         <p>
+             <input id="id_image" type="file" class="" name="image"> <!-- 这一行应该是form.image，省事写的 -->
+         </p>
+         <input type="submit" value="Submit" />
+     </form>
+
+{#    <form enctype="multipart/form-data" method="post" action="/foo/">do it</form>#}
+
+    <div id="base" class="">
       <!-- Unnamed (搜索框) -->
 
       <!-- Unnamed (Group) -->
@@ -164,7 +187,7 @@
 
         <!-- Unnamed (Image) -->
         <div id="u31" class="ax_default image">
-          <img id="u31_img" class="img " src="{% static "homepage/images/homepage/regen/u31.jpg"%}"/>
+          <img id="u31_img" class="img " src="{{ MEDIA_URL }}{{ image }}"/>
           <!-- Unnamed () -->
           <div id="u32" class="text" style="display:none; visibility: hidden">
             <p><span></span></p>

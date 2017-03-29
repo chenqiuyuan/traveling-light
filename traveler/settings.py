@@ -26,7 +26,8 @@ SECRET_KEY = 'iqykq=nh=pmcx$a1%l857ao3jd3o^th%l&xl@xk_f%1_j=og-*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["1.traveler.applinzi.com",
+                 "127.0.0.1"]
 
 
 # Application definition
@@ -56,7 +57,8 @@ ROOT_URLCONF = 'traveler.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [os.path.join(BASE_DIR, 'templates'),
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -64,6 +66,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.media',
             ],
         },
     },
@@ -85,7 +88,6 @@ DATABASES = {
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
-
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
@@ -121,3 +123,6 @@ USE_TZ = True
 
 #默认的，图方便我就准备搞到template里面,额，好像也不行
 STATIC_URL = '/static/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'homepage/static/media/').replace('\\', '/')
+MEDIA_URL = 'static/media/'
+# MEDIA_URL = MEDIA_ROOT

@@ -1,20 +1,21 @@
 ﻿<!DOCTYPE html>
+{% load static %}
 <html>
   <head>
     <title>登陆页面</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/登陆页面/styles.css" type="text/css" rel="stylesheet"/>
-    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
-    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
-    <script src="resources/scripts/prototypePre.js"></script>
-    <script src="data/document.js"></script>
-    <script src="resources/scripts/prototypePost.js"></script>
-    <script src="files/登陆页面/data.js"></script>
+    <link href="{% static "homepage/resources/css/jquery-ui-themes.css"%}" type="text/css" rel="stylesheet" />
+    <link href="{% static "homepage/resources/css/axure_rp_page.css"%}" type="text/css" rel="stylesheet" />
+    <link href="{% static "homepage/data/styles.css"%}" type="text/css" rel="stylesheet" />
+    <link href="{% static "homepage/files/登陆页面/styles.css"%}" type="text/css" rel="stylesheet" />
+    <script src="{% static "homepage/resources/scripts/jquery-1.7.1.min.js" %}"></script>
+    <script src="{% static "homepage/resources/scripts/jquery-ui-1.8.10.custom.min.js" %}"></script>
+    <script src="{% static "homepage/resources/scripts/prototypePre.js" %}"></script>
+    <script src="{% static "homepage/data/document.js" %}"></script>
+    <script src="{% static "homepage/resources/scripts/prototypePost.js" %}"></script>
+    <script src="{% static "homepage/files/登陆页面/data.js" %}"></script>
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -87,7 +88,7 @@
 
         <!-- Unnamed (Image) -->
         <div id="u62" class="ax_default image">
-          <img id="u62_img" class="img " src="images/homepage/u31.jpg"/>
+          <img id="u62_img" class="img " src="{% static "homepage/images/homepage/u31.jpg" %}"/>
           <!-- Unnamed () -->
           <div id="u63" class="text" style="display:none; visibility: hidden">
             <p><span></span></p>
