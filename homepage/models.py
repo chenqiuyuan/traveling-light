@@ -14,5 +14,9 @@ class cover_image(models.Model):
 
 class ExampleModel(models.Model):
     model_pic = models.ImageField(upload_to='', default='media/no-img.jpg')
-    name = models.CharField(max_length=100, default='default', primary_key=True)
+    name = models.CharField(max_length=120, default='default', primary_key=True)
     # model_pic = models.ImageField(default = 'media/no-img.jpg')
+
+class UsersModel(models.Model):
+    username = models.CharField(max_length=120)
+    password = models.CharField(max_length=120)
