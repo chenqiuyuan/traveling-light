@@ -1,13 +1,6 @@
 from django.db import models
 from django.forms import ModelForm
-
-# Create your models here.
-
-
-# class Country(models.Model):
-#     name = models.CharField(max_length=30)
-#     capital = models.CharField(max_length=30)
-
+from django.contrib.auth.models import AbstractUser
 class cover_image(models.Model):
     name = models.ImageField(upload_to='photos/%Y/%m/%d', blank=True, null=True)
 
@@ -17,6 +10,5 @@ class ExampleModel(models.Model):
     name = models.CharField(max_length=120, default='default', primary_key=True)
     # model_pic = models.ImageField(default = 'media/no-img.jpg')
 
-class UsersModel(models.Model):
-    username = models.CharField(max_length=120)
-    password = models.CharField(max_length=120)
+# class User(AbstractUser):
+#     pass

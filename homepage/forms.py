@@ -43,5 +43,5 @@ class SignUpForm(forms.Form):
     password = forms.CharField(max_length=120, required=True)
 
 class LoginForm(forms.Form):
-    username = forms.CharField(max_length=120, required=True)
-    password = forms.CharField(max_length=120, required=True)
+    username = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control', 'id': 'uid', 'placeholder': 'Username'}))
+    password = forms.CharField(widget=forms.PasswordInput(attrs={'class': 'form-control', 'id': 'pwd', 'placeholder': 'Password'}))

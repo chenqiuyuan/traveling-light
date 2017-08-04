@@ -16,7 +16,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.4.3 (C:\Python34\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="django_tutorial" />
+    <orderEntry type="module" module-name="django-cms-master" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />

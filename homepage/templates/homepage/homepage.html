@@ -23,14 +23,17 @@
     </script>
   </head>
   <body>
-    <h> chenqiuyuan demo123 </h>
     <form action="/your_name/" method="post">
         {% csrf_token %}
         <label for="label1">Your name: </label>
         <br/>
+
         <input id="your_name" type="text" name="your_name" value="{{ current_name }}">
         <input type="submit" value="OK">
     </form>
+    {% if request.user.is_authenticated %}
+        {{ username }}
+    {% endif %}
 {#    <img src="{% static "media/pikaqiu.jpg" %}">#}
     <a href="admin/">admin</a>
 {#    <img src="{{ MEDIA_URL }}pikaqiu.jpg">#}

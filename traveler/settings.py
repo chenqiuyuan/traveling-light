@@ -29,7 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["1.traveler.applinzi.com",
                  "127.0.0.1"]
 
-
+# AUTH_USER_MODEL = "homepage.User"
 # Application definition
 
 INSTALLED_APPS = [

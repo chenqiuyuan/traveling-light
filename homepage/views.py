@@ -1,11 +1,13 @@
 # -*-coding:utf-8 -*-
-from django.shortcuts import render, render_to_response
-from django.http import HttpResponse
+from django.shortcuts import render, render_to_response, redirect
+from django.http import HttpResponse, HttpResponseRedirect
 from  django.http import HttpResponseForbidden
 import datetime
 
 from .forms import ImageUploadForm, SignUpForm, LoginForm
-from .models import ExampleModel,UsersModel
+from .models import ExampleModel
+from django.contrib.auth.models import User
+from django.contrib.auth import authenticate, login, logout
 
 # Create your views here.
 from django.views import generic
@@ -74,22 +76,35 @@ def sign_up(request):
         if form.is_valid():
             username = request.POST.get('username')
             password = request.POST.get('password')
-            user = UsersModel(username=username,password=password)
+            user = User(username=username, password=password)
             user.save()
-            # return HttpResponse('register successes')
-            return render(request, 'homepage/homepage.html')
+            return redirect('/')
+            # return render(request, 'homepage/homepage.html')
     return HttpResponseForbidden('allowed only via POST')
 
-def login(request):
+def log_in(request):
     if request.method == 'POST':
         form = LoginForm(request.POST)
         if form.is_valid():
             username = request.POST.get('username')
-            password_login = request.POST.get('password')
-            user_info = UsersModel.objects.get(username=username)
-            password_exist = user_info.password
-            print(password_exist)
-            if password_exist == password_login:
-                return render(request, 'homepage/homepage.html')
+            password = request.POST.get('password')
+            user = authenticate(username=username, password=password)
+            if user is not None:
+                print(123)
+                login(request, user)
 
+                return redirect('/')
+            else:
+                url = request.POST.get('source_url')
+
+                return HttpResponse("wrong user" + str(url))
+            # password_exist = user_info.password
+            # print(password_exist)
+            # if password_exist == password_login:
+            #     request.path = "/"
+            #
+            #     return render(request, 'homepage/homepage.html', {'username': username})
     return HttpResponseForbidden('allowed only via POST')
+
+def personal_homepage(request):
+    return render(request,'homepage/个人主页.html')
